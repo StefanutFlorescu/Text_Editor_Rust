@@ -1,0 +1,26 @@
+/* src/App.css or src/TextInput.css */
+.text-input-container {
+    padding: 20px;
+    width: 100%;              
+    max-width: 500px;             
+    height: 100hv;   
+    display: flex;
+    margin-left: auto;
+    margin-right: 30px;
+  }
+    
+.text-input {
+  text-align: left;        
+  padding: 10px;           
+  width: 100%;        
+  height: 500px;                
+  line-height: 1.2;        
+  resize: vertical;         
+  box-sizing: border-box;  
+}
+input {
+  text-align: left; 
+  vertical-align: top; 
+}
+  
+  
